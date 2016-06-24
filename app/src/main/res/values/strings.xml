@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="tip_detail">Tip Details</string>
+    <string name="main.button.submit">Calculate</string>
+    <string name="main.hint.bill">Total</string>
+    <string name="main.hint.percentage">Tip %</string>
+    <string name="main.button.increase">+</string>
+    <string name="main.button.decrease">-</string>
+    <string name="main.button.clear">Clear history</string>
+    <string name="main.notice.clear">History cleaned!</string>
+    <string name="main.menu.action.about">About</string>
+
+    <string name="global.message.tip">Tip %,.1f</string>
+    <string name="main.message.tip_empty">Need a input value to calculate a tip</string>
+    <string name="tipdetail.message.bill">Total %,.1f</string>
+</resources>
